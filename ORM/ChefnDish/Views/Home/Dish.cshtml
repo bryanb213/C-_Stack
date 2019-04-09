@@ -1,0 +1,40 @@
+﻿
+<link rel="stylesheet" href="~/css/style.css"/>
+    
+
+<div id="top">
+    <h2><a href="/">Chefs</a></h2> | <h2>Dishes</h2>
+    <br>
+    <a href="dish/new">Add a Dish</a>
+</div>
+<div>
+    <h3>Yum take a look at our tastey dishes!</h3>
+    <hr>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Chef</th>
+                <th scope="col">Tastiness</th>
+                <th scope="col">Calories</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var i in @ViewBag.Dishes)
+            {
+                <tr>
+                    <td>@i.Name</td>
+                    @foreach(var o in @ViewBag.Chefs)
+                    {
+                        @if(@i.ChefId == o.ChefId){
+                        <td>@o.FirstName @o.LastName</td>
+                        }
+                    }
+                    <td>@i.Tastiness</td>
+                    <td>@i.Calories</td>
+                </tr>
+            }
+            
+        </tbody>
+    </table>
+</div>

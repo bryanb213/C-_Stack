@@ -1,0 +1,36 @@
+﻿@using ChefnDish.Models
+@model List<Chef>
+
+<link rel="stylesheet" href="~/css/style.css"/>
+    
+
+<div id="top">
+    <h3>Chefs</h3> | <h3><a href="/dish">Dishes</a></h3>
+    <br>
+
+    <a href="/new">Add a Chef</a>
+</div>
+<div>
+    <h3>Check out the iron chefs yo!</h3>
+    <table class="table table-striped">
+        <thead>
+          <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Age</th>
+            <th scope="col"># of Dishes</th>
+          </tr>
+        </thead>
+        <tbody>
+          
+            @foreach(var i in Model)
+            {
+            <tr>
+            <td>@i.FirstName @i.LastName</td>
+            <td>@i.Age</td>
+            <td>@i.CreatedDishes.Count</td>
+            </tr>
+            }
+          
+        </tbody>
+      </table>
+</div>

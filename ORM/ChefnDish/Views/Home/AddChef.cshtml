@@ -1,0 +1,29 @@
+﻿@model Chef
+
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h2>@ViewData["Title"]</h2>
+
+<p>Use this page to detail your site's privacy policy.</p>
+
+<h2>Add a Chef!</h2>
+<br>
+<a href="/">Home</a>
+
+
+<div>
+<form asp-action="AddChefs" asp-controller='Home' method="post">
+    <label asp-for="FirstName"></label>
+    <input type="text" asp-for="FirstName">
+
+    <label asp-for="LastName"></label>
+    <input type="text" asp-for="LastName">
+
+    <span asp-validation-for="Birthday"></span>
+    <label asp-for="Birthday"></label>
+    <input type="date" asp-for="Birthday">
+    
+    <button>Add Chef</button>
+</form>
+</div>

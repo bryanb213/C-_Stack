@@ -1,0 +1,11 @@
+/Users/bryanblancas/c#/essentials/funds/fundamentals/bin/Debug/netcoreapp2.1/fundamentals.deps.json
+/Users/bryanblancas/c#/essentials/funds/fundamentals/bin/Debug/netcoreapp2.1/fundamentals.runtimeconfig.json
+/Users/bryanblancas/c#/essentials/funds/fundamentals/bin/Debug/netcoreapp2.1/fundamentals.runtimeconfig.dev.json
+/Users/bryanblancas/c#/essentials/funds/fundamentals/bin/Debug/netcoreapp2.1/fundamentals.dll
+/Users/bryanblancas/c#/essentials/funds/fundamentals/bin/Debug/netcoreapp2.1/fundamentals.pdb
+/Users/bryanblancas/c#/essentials/funds/fundamentals/obj/Debug/netcoreapp2.1/fundamentals.csprojAssemblyReference.cache
+/Users/bryanblancas/c#/essentials/funds/fundamentals/obj/Debug/netcoreapp2.1/fundamentals.csproj.CoreCompileInputs.cache
+/Users/bryanblancas/c#/essentials/funds/fundamentals/obj/Debug/netcoreapp2.1/fundamentals.AssemblyInfoInputs.cache
+/Users/bryanblancas/c#/essentials/funds/fundamentals/obj/Debug/netcoreapp2.1/fundamentals.AssemblyInfo.cs
+/Users/bryanblancas/c#/essentials/funds/fundamentals/obj/Debug/netcoreapp2.1/fundamentals.dll
+/Users/bryanblancas/c#/essentials/funds/fundamentals/obj/Debug/netcoreapp2.1/fundamentals.pdb

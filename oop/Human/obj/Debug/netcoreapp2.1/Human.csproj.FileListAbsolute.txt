@@ -1,0 +1,11 @@
+/Users/bryanblancas/c#/oop/Human/obj/Debug/netcoreapp2.1/Human.csprojAssemblyReference.cache
+/Users/bryanblancas/c#/oop/Human/obj/Debug/netcoreapp2.1/Human.csproj.CoreCompileInputs.cache
+/Users/bryanblancas/c#/oop/Human/obj/Debug/netcoreapp2.1/Human.AssemblyInfoInputs.cache
+/Users/bryanblancas/c#/oop/Human/obj/Debug/netcoreapp2.1/Human.AssemblyInfo.cs
+/Users/bryanblancas/c#/oop/Human/bin/Debug/netcoreapp2.1/Human.deps.json
+/Users/bryanblancas/c#/oop/Human/bin/Debug/netcoreapp2.1/Human.runtimeconfig.json
+/Users/bryanblancas/c#/oop/Human/bin/Debug/netcoreapp2.1/Human.runtimeconfig.dev.json
+/Users/bryanblancas/c#/oop/Human/bin/Debug/netcoreapp2.1/Human.dll
+/Users/bryanblancas/c#/oop/Human/bin/Debug/netcoreapp2.1/Human.pdb
+/Users/bryanblancas/c#/oop/Human/obj/Debug/netcoreapp2.1/Human.dll
+/Users/bryanblancas/c#/oop/Human/obj/Debug/netcoreapp2.1/Human.pdb

@@ -1,0 +1,17 @@
+/Users/bryanblancas/c#/essentials/puzzle/bin/Debug/netcoreapp2.1/puzzle.deps.json
+/Users/bryanblancas/c#/essentials/puzzle/bin/Debug/netcoreapp2.1/puzzle.runtimeconfig.json
+/Users/bryanblancas/c#/essentials/puzzle/bin/Debug/netcoreapp2.1/puzzle.runtimeconfig.dev.json
+/Users/bryanblancas/c#/essentials/puzzle/bin/Debug/netcoreapp2.1/puzzle.dll
+/Users/bryanblancas/c#/essentials/puzzle/bin/Debug/netcoreapp2.1/puzzle.pdb
+/Users/bryanblancas/c#/essentials/puzzle/obj/Debug/netcoreapp2.1/puzzle.csprojAssemblyReference.cache
+/Users/bryanblancas/c#/essentials/puzzle/obj/Debug/netcoreapp2.1/puzzle.csproj.CoreCompileInputs.cache
+/Users/bryanblancas/c#/essentials/puzzle/obj/Debug/netcoreapp2.1/puzzle.AssemblyInfoInputs.cache
+/Users/bryanblancas/c#/essentials/puzzle/obj/Debug/netcoreapp2.1/puzzle.AssemblyInfo.cs
+/Users/bryanblancas/c#/essentials/puzzle/obj/Debug/netcoreapp2.1/puzzle.dll
+/Users/bryanblancas/c#/essentials/puzzle/obj/Debug/netcoreapp2.1/puzzle.pdb
+/Users/bryanblancas/Desktop/c#/essentials/puzzle/obj/Debug/netcoreapp2.1/puzzle.csprojAssemblyReference.cache
+/Users/bryanblancas/Desktop/c#/essentials/puzzle/obj/Debug/netcoreapp2.1/puzzle.csproj.CoreCompileInputs.cache
+/Users/bryanblancas/Desktop/c#/essentials/puzzle/obj/Debug/netcoreapp2.1/puzzle.AssemblyInfoInputs.cache
+/Users/bryanblancas/Desktop/c#/essentials/puzzle/obj/Debug/netcoreapp2.1/puzzle.AssemblyInfo.cs
+/Users/bryanblancas/Desktop/c#/essentials/puzzle/obj/Debug/netcoreapp2.1/puzzle.dll
+/Users/bryanblancas/Desktop/c#/essentials/puzzle/obj/Debug/netcoreapp2.1/puzzle.pdb

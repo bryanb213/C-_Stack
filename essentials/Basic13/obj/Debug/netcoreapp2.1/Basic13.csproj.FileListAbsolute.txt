@@ -1,0 +1,11 @@
+/Users/bryanblancas/c#/essentials/Basic13/bin/Debug/netcoreapp2.1/Basic13.deps.json
+/Users/bryanblancas/c#/essentials/Basic13/bin/Debug/netcoreapp2.1/Basic13.runtimeconfig.json
+/Users/bryanblancas/c#/essentials/Basic13/bin/Debug/netcoreapp2.1/Basic13.runtimeconfig.dev.json
+/Users/bryanblancas/c#/essentials/Basic13/bin/Debug/netcoreapp2.1/Basic13.dll
+/Users/bryanblancas/c#/essentials/Basic13/bin/Debug/netcoreapp2.1/Basic13.pdb
+/Users/bryanblancas/c#/essentials/Basic13/obj/Debug/netcoreapp2.1/Basic13.csprojAssemblyReference.cache
+/Users/bryanblancas/c#/essentials/Basic13/obj/Debug/netcoreapp2.1/Basic13.csproj.CoreCompileInputs.cache
+/Users/bryanblancas/c#/essentials/Basic13/obj/Debug/netcoreapp2.1/Basic13.AssemblyInfoInputs.cache
+/Users/bryanblancas/c#/essentials/Basic13/obj/Debug/netcoreapp2.1/Basic13.AssemblyInfo.cs
+/Users/bryanblancas/c#/essentials/Basic13/obj/Debug/netcoreapp2.1/Basic13.dll
+/Users/bryanblancas/c#/essentials/Basic13/obj/Debug/netcoreapp2.1/Basic13.pdb

@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <title>Index</title>
+    // In this context '~' refers to the wwwroot folder
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+
+<body>
+    <h1>Enter your secrets!</h1>
+    <div>
+        @model HogwartsStudent
+        <form asp-action="Create" asp-controller="Home" method="post">
+
+            <span asp-validation-for="Name"></span>
+            <label asp-for="Name">Your Name:</label>
+            <input type="text" asp-for="Name">
+            <br>
+
+            <label asp-for="Location">Dojo Location:</label>
+            <select asp-for="Location">
+                <option value="Chicago">Chicago</option>
+                <option value="Los Angeles">Los Angeles</option>
+                <option value="Seattle">Seattle</option>
+                <option value="Portland">Portland</option>
+                <option value="Boise">Boise</option>
+            </select>
+            <br>
+
+            <label asp-for="Language">Favorite Language:</label>
+            <select name="Language">
+                <option value="C#">C#</option>
+                <option value="C++">C++</option>
+                <option value="Python">Python</option>
+                <option value="Ruby">Ruby</option>
+                <option value="C">C</option>
+            </select>
+            <br>
+
+            <label asp-for="Comment">Comment (optional)</label>
+            <br>
+            <textarea asp-for="Comment" rows="4" cols="50"></textarea>
+            <br>
+            <button>Submit</button>
+        </form>
+    </div>
+</body>
+
+</html>

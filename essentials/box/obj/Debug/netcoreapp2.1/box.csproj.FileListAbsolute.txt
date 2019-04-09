@@ -1,0 +1,11 @@
+/Users/bryanblancas/c#/essentials/box/bin/Debug/netcoreapp2.1/box.deps.json
+/Users/bryanblancas/c#/essentials/box/bin/Debug/netcoreapp2.1/box.runtimeconfig.json
+/Users/bryanblancas/c#/essentials/box/bin/Debug/netcoreapp2.1/box.runtimeconfig.dev.json
+/Users/bryanblancas/c#/essentials/box/bin/Debug/netcoreapp2.1/box.dll
+/Users/bryanblancas/c#/essentials/box/bin/Debug/netcoreapp2.1/box.pdb
+/Users/bryanblancas/c#/essentials/box/obj/Debug/netcoreapp2.1/box.csprojAssemblyReference.cache
+/Users/bryanblancas/c#/essentials/box/obj/Debug/netcoreapp2.1/box.csproj.CoreCompileInputs.cache
+/Users/bryanblancas/c#/essentials/box/obj/Debug/netcoreapp2.1/box.AssemblyInfoInputs.cache
+/Users/bryanblancas/c#/essentials/box/obj/Debug/netcoreapp2.1/box.AssemblyInfo.cs
+/Users/bryanblancas/c#/essentials/box/obj/Debug/netcoreapp2.1/box.dll
+/Users/bryanblancas/c#/essentials/box/obj/Debug/netcoreapp2.1/box.pdb

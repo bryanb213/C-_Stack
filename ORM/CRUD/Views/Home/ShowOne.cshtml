@@ -1,0 +1,16 @@
+@using CRUD.Models
+@model Dish
+
+<a href="Index">Home</a>
+<br>
+<div>
+    <h1>@Model.Name</h1>
+    <h3>@Model.Chef</h3>
+    <hr>
+    <p>@Model.Description</p>
+    <p>Calories: @Model.Calories</p>
+    <p>Tastiness: @Model.Tastiness</p>
+    <a class="btn btn-primary" href="edit/@Model.DishId" role="button">Edit</a>
+   <a class="btn btn-primary btn-danger" href="delete/@Model.DishId" role="button">Delete</a>
+
+</div>

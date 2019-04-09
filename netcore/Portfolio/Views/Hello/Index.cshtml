@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Index</title>
+        // In this context '~' refers to the wwwroot folder
+        <link rel="stylesheet" href="~/css/style.css"/>
+    </head>
+    <body>
+        <h1>Hello ASP.NET Mvc!</h1>
+        <h1>@ViewBag.Example</h1>
+@{
+    string LocalString = ViewBag.Example + " Good to see you!";
+}
+<h1>@LocalString</h1>
+
+<div class="nav">
+<a href="/">Home</a>&#10023; 
+<a href="project">Projects</a>&#10023;
+<a href="contact">Contact</a>
+</div>
+<div class="aboutme">
+    <h3>About Me</h3>
+    <img src="~/img/gir.png" alt="Gir">
+    <br>
+    <label>Gir</label>
+</div>
+<div class="about">
+    <p>
+        It is a long established fact that a rear default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+    </p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+}
+.nav{
+    text-align: center;
+}
+
+.scroll{
+    width:500px;
+    max-height:200px;
+    overflow: auto;
+}
+
+/* ::-webkit-scrollbar{
+    width:10px;
+} */

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Index</title>
+            <link rel="stylesheet" href="~/css/style.css"/>
+    </head>
+    <body>
+        <h1>Here are some Delicious foods!</h1>
+ @{
+        var StringList = new List<string>{
+                                "pizza",
+                                "hotdog",
+                                "hamburger",
+                                "peach"
+                            };
+        
+        @foreach(var word in StringList)
+        {
+    
+           <p>@word</p>
+        }
+    }
+    </body>
+</html>

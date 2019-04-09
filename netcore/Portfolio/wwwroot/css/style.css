@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+}
+.nav{
+    text-align: center;
+}
+.aboutme h3{
+    text-align: center;
+    margin: 0;
+}
+.about {
+    display: inline-block;
+    width: 40%;
+}
+/* p{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+} */
+.aboutme, img{
+    display: inline-block;
+}
+label{
+    margin-left: 100px;
+}
+

@@ -1,0 +1,40 @@
+﻿@model User
+    <h1>Enter your secrets!</h1>
+    
+        <form asp-action="Method"  asp-controller="Home" method="post">
+            <span asp-validation-for="FirstName"></span>
+            <br>
+            <span asp-validation-for="LastName"></span>
+            <br>
+            <span asp-validation-for="Age"></span>
+            <br>
+            <span asp-validation-for="Email"></span>
+            <br>
+            <span asp-validation-for="Password"></span>
+            <br>
+
+            <label asp-for="FirstName"></label>
+            <input type="text" asp-for="FirstName" name="FirstName">
+            <br>
+
+            
+            <label asp-for="LastName"></label>
+            <input type="text" asp-for="LastName" name="LastName">
+            <br>
+
+            
+            <label asp-for="Age"></label>
+            <input type="number" asp-for="Age" name="Age">
+            <br>
+
+            
+            <label asp-for="Email"></label>
+            <input type="email" asp-for="Email" name="Email">
+            <br>
+
+        
+            <label asp-for="Password">Password</label>
+            <input type="password" asp-for="Password" name="Password">
+            <button>Submit</button>
+        </form>
+    </div>

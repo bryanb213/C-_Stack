@@ -1,0 +1,16 @@
+﻿@model Dish
+
+<h1>Welcome to CRUDelicious</h1>
+<br>
+<a href="/new">Add Dish</a>
+<br>
+<table>
+    <tbody>
+        @foreach(var i in ViewBag.data)
+        {
+            <tr>
+            <td><a href="@i.DishId">@i.Name</a> by @i.Chef</td>
+            </tr>
+        }
+    </tbody>
+</table>

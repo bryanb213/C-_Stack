@@ -1,0 +1,11 @@
+/Users/bryanblancas/c#/essentials/funds/collections/bin/Debug/netcoreapp2.1/collections.deps.json
+/Users/bryanblancas/c#/essentials/funds/collections/bin/Debug/netcoreapp2.1/collections.runtimeconfig.json
+/Users/bryanblancas/c#/essentials/funds/collections/bin/Debug/netcoreapp2.1/collections.runtimeconfig.dev.json
+/Users/bryanblancas/c#/essentials/funds/collections/bin/Debug/netcoreapp2.1/collections.dll
+/Users/bryanblancas/c#/essentials/funds/collections/bin/Debug/netcoreapp2.1/collections.pdb
+/Users/bryanblancas/c#/essentials/funds/collections/obj/Debug/netcoreapp2.1/collections.csprojAssemblyReference.cache
+/Users/bryanblancas/c#/essentials/funds/collections/obj/Debug/netcoreapp2.1/collections.csproj.CoreCompileInputs.cache
+/Users/bryanblancas/c#/essentials/funds/collections/obj/Debug/netcoreapp2.1/collections.AssemblyInfoInputs.cache
+/Users/bryanblancas/c#/essentials/funds/collections/obj/Debug/netcoreapp2.1/collections.AssemblyInfo.cs
+/Users/bryanblancas/c#/essentials/funds/collections/obj/Debug/netcoreapp2.1/collections.dll
+/Users/bryanblancas/c#/essentials/funds/collections/obj/Debug/netcoreapp2.1/collections.pdb

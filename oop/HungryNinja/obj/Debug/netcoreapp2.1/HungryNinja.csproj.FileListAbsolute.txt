@@ -1,0 +1,11 @@
+/Users/bryanblancas/c#/oop/HungryNinja/bin/Debug/netcoreapp2.1/HungryNinja.deps.json
+/Users/bryanblancas/c#/oop/HungryNinja/bin/Debug/netcoreapp2.1/HungryNinja.runtimeconfig.json
+/Users/bryanblancas/c#/oop/HungryNinja/bin/Debug/netcoreapp2.1/HungryNinja.runtimeconfig.dev.json
+/Users/bryanblancas/c#/oop/HungryNinja/bin/Debug/netcoreapp2.1/HungryNinja.dll
+/Users/bryanblancas/c#/oop/HungryNinja/bin/Debug/netcoreapp2.1/HungryNinja.pdb
+/Users/bryanblancas/c#/oop/HungryNinja/obj/Debug/netcoreapp2.1/HungryNinja.csprojAssemblyReference.cache
+/Users/bryanblancas/c#/oop/HungryNinja/obj/Debug/netcoreapp2.1/HungryNinja.csproj.CoreCompileInputs.cache
+/Users/bryanblancas/c#/oop/HungryNinja/obj/Debug/netcoreapp2.1/HungryNinja.AssemblyInfoInputs.cache
+/Users/bryanblancas/c#/oop/HungryNinja/obj/Debug/netcoreapp2.1/HungryNinja.AssemblyInfo.cs
+/Users/bryanblancas/c#/oop/HungryNinja/obj/Debug/netcoreapp2.1/HungryNinja.dll
+/Users/bryanblancas/c#/oop/HungryNinja/obj/Debug/netcoreapp2.1/HungryNinja.pdb

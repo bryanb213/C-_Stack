@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Index</title>
+        <link rel="stylesheet" href="~/css/style.css"/>
+    </head>
+    <body>
+        
+        <div>
+            <h1>Current Time & Date!</h1>
+            @{
+                DateTime CurrentTime = DateTime.Now;
+                <p>@CurrentTime.ToString("MMM dd, yyyy HH:mm:ss tt")</p>
+            }
+
+        </div>
+    </body>
+</html>

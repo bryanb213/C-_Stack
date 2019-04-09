@@ -1,0 +1,11 @@
+/Users/bryanblancas/c#/FirstCSharp/bin/Debug/netcoreapp2.1/FirstCSharp.deps.json
+/Users/bryanblancas/c#/FirstCSharp/bin/Debug/netcoreapp2.1/FirstCSharp.runtimeconfig.json
+/Users/bryanblancas/c#/FirstCSharp/bin/Debug/netcoreapp2.1/FirstCSharp.runtimeconfig.dev.json
+/Users/bryanblancas/c#/FirstCSharp/bin/Debug/netcoreapp2.1/FirstCSharp.dll
+/Users/bryanblancas/c#/FirstCSharp/bin/Debug/netcoreapp2.1/FirstCSharp.pdb
+/Users/bryanblancas/c#/FirstCSharp/obj/Debug/netcoreapp2.1/FirstCSharp.csprojAssemblyReference.cache
+/Users/bryanblancas/c#/FirstCSharp/obj/Debug/netcoreapp2.1/FirstCSharp.csproj.CoreCompileInputs.cache
+/Users/bryanblancas/c#/FirstCSharp/obj/Debug/netcoreapp2.1/FirstCSharp.AssemblyInfoInputs.cache
+/Users/bryanblancas/c#/FirstCSharp/obj/Debug/netcoreapp2.1/FirstCSharp.AssemblyInfo.cs
+/Users/bryanblancas/c#/FirstCSharp/obj/Debug/netcoreapp2.1/FirstCSharp.dll
+/Users/bryanblancas/c#/FirstCSharp/obj/Debug/netcoreapp2.1/FirstCSharp.pdb
